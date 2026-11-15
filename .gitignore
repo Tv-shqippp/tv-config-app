@@ -1,0 +1,8 @@
+cookies.txt
+**/cookies.txt
+__pycache__/
+*.pyc
+.env
+.env.*
+*.jks
+*.keystore
