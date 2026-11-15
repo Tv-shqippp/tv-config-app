@@ -883,62 +883,7 @@
           "subtitle": "AlbaPlayer / Server 1..7",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/sport.jpg",
           "type": "group",
-          "items": [
-            {
-              "id": "sport-portugal---denmark",
-              "name": "Portugal - Denmark",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/03/Flag_of_Portugal.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/portugal-denmark",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-austria---ireland",
-              "name": "Austria - Ireland",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/06/Flag_of_Austria.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/austria-ireland",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-belarus---albania",
-              "name": "Belarus - Albania",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/09/Flag_of_Belarus.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/belarus-albania",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-belgium---italy",
-              "name": "Belgium - Italy",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/06/Screenshot_20260602_145830_Chrome.jpg",
-              "type": "dynamic_hls",
-              "pageUrl": "https://healthfirstin.com/albaplayer/5-subtle-red-flags-your-body-is-sending-you/?serv=5",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-france---turkey",
-              "name": "France - Turkey",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/03/Flag_of_France.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/france-turkey",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-spain---england",
-              "name": "Spain - England",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/03/Flag_of_Spain.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://healthfirstin.com/albaplayer/why-your-sleep-schedule-controls-your-lifespan/?serv=5",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "sport-damitv",
