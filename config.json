@@ -882,7 +882,26 @@
           "subtitle": "AlbaPlayer / Server 1..7",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/sport.jpg",
           "type": "group",
-          "items": []
+          "items": [
+            {
+              "id": "sport-germany---netherlands",
+              "name": "Germany - Netherlands",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/03/Flagge_Furstentum_Reus_altere_Linie.svg_.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/germany-netherlands",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
+              "id": "sport-switzerland---scotland",
+              "name": "Switzerland - Scotland",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/03/Flag-Switzerland-jpg-1600×1600-03-27-2026_03_31_PM.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/switzerland-scotland",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            }
+          ]
         },
         {
           "id": "sport-damitv",
