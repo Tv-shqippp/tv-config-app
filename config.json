@@ -1,6 +1,6 @@
 {
-  "version": 2026111536,
-  "updated": "2026-11-15T18:56:08Z",
+  "version": 2026111537,
+  "updated": "2026-11-16T09:03:59Z",
   "globalAlert": "",
   "sections": [
     {
@@ -76,8 +76,7 @@
           "type": "hls",
           "url": "https://kosovatv.live/api/hls.php?id=6&source=1",
           "referer": "https://kosovatv.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36",
-          "pageUrl": "https://www.rtklive.com/sq/livestream/rtk4/"
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36"
         },
         {
           "id": "atv",
