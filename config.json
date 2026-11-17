@@ -884,20 +884,29 @@
           "type": "group",
           "items": [
             {
-              "id": "sport-germany---netherlands",
-              "name": "Germany - Netherlands",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/03/Flagge_Furstentum_Reus_altere_Linie.svg_.png",
+              "id": "sport-ireland---kosovo",
+              "name": "Ireland - Kosovo",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/09/images.webp",
               "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/germany-netherlands",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/ireland-kosovo",
               "referer": "https://kosovari.online/",
               "forceWeb": true
             },
             {
-              "id": "sport-switzerland---scotland",
-              "name": "Switzerland - Scotland",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/03/Flag-Switzerland-jpg-1600×1600-03-27-2026_03_31_PM.png",
+              "id": "sport-wales---portugal",
+              "name": "Wales - Portugal",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/09/Flag_of_Wales.svg_.png",
               "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/switzerland-scotland",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/wales-portugal",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
+              "id": "sport-denmark---norway",
+              "name": "Denmark - Norway",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/03/fderrtet.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/denmark-norway",
               "referer": "https://kosovari.online/",
               "forceWeb": true
             }
