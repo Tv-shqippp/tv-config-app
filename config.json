@@ -1,5 +1,5 @@
 {
-  "version": 2026111537,
+  "version": 2026111538,
   "updated": "2026-11-16T09:03:59Z",
   "globalAlert": "",
   "sections": [
@@ -471,6 +471,15 @@
               "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/oha-supersport5.png"
             },
             {
+              "id": "oha-supersport6",
+              "name": "SuperSport 6",
+              "type": "oha_live",
+              "subtitle": "Drejtp?rdrejt",
+              "pageUrl": "https://oha.to/live/play/1956685508",
+              "state": "live",
+              "country": "AL"
+            },
+            {
               "id": "oha-supersport7",
               "name": "SuperSport 7",
               "type": "oha_live",
@@ -569,6 +578,26 @@
               "state": "live",
               "country": "AL",
               "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/oha-tringsportnews.png"
+            },
+            {
+              "id": "oha-kujtesasport1",
+              "name": "Kujtesa Sport 1",
+              "type": "oha_live",
+              "subtitle": "P?r verifikim",
+              "pageUrl": "https://oha.to/live/play/87812266",
+              "state": "review",
+              "country": "AL",
+              "description": "Videoja dhe audioja u hap?n gjat? prov?s. Identiteti dhe gjuha e transmetimit duhet t? verifikohen. Metadatat e audios tregojn? polonisht; shqipja nuk ?sht? konfirmuar."
+            },
+            {
+              "id": "oha-kujtesasport4",
+              "name": "Kujtesa Sport 4",
+              "type": "oha_live",
+              "subtitle": "P?r verifikim",
+              "pageUrl": "https://oha.to/live/play/3453708250",
+              "state": "review",
+              "country": "AL",
+              "description": "Videoja dhe audioja u hap?n gjat? prov?s. Identiteti dhe gjuha e transmetimit duhet t? verifikohen."
             }
           ],
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/sport-live.png"
