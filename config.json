@@ -914,20 +914,11 @@
           "type": "group",
           "items": [
             {
-              "id": "sport-al-ahli---al-nassr",
-              "name": "Al Ahli - Al Nassr",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/04/Al_Ahli_Saudi_FC_logo.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/al-ahli-al-nassr",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
               "id": "sport-bayern-munich---koln",
               "name": "Bayern Munich - Koln",
               "icon": "https://kosovari.online/wp-content/uploads/2026/02/reyreryerye.png",
               "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/bayern-koln",
+              "pageUrl": "https://healthfirstin.com/albaplayer/how-daily-micro-habits-rebuild-your-immune-system/?serv=5",
               "referer": "https://kosovari.online/",
               "forceWeb": true
             }
