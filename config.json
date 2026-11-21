@@ -1,7 +1,7 @@
 {
-  "version": 2026111541,
+  "version": 2026111542,
   "communityCatalogAfter": "filma-shqip",
-  "updated": "2026-11-20T19:24:07Z",
+  "updated": "2026-11-21T01:33:01Z",
   "globalAlert": "",
   "sections": [
     {
@@ -795,7 +795,7 @@
           "name": "Tëvë 1",
           "icon": "https://i.ibb.co/Kc4Mp74D/TEVE-1-HD.png",
           "type": "hls",
-          "url": "https://kosovatv.live/api/hls.php?id=22&source=1",
+          "url": "https://kosovatv.live/api/hls.php?id=21&source=1",
           "referer": "https://kosovatv.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36"
         },
