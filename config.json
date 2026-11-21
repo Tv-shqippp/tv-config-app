@@ -914,69 +914,6 @@
           "type": "group",
           "items": [
             {
-              "id": "sport-manchester-city---fulham",
-              "name": "Manchester City - Fulham",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/1280px-Manchester_City_FC_badge.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/man-city-fulham",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-borussia-mnchengladbach---borussia-dortmund",
-              "name": "Borussia Mönchengladbach - Borussia Dortmund",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/borussia-monchengladbach-logo-pn.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/mgladbach-dortmund",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-lazio---lecce",
-              "name": "Lazio - Lecce",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/S._Lazio_badge.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/lazio-lecce",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-chelsea---leeds-united",
-              "name": "Chelsea - Leeds United",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/1280px-Chelsea_FC.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/chelsea-leeds",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-nice---psg",
-              "name": "Nice - PSG",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/03/OGC_Nice_logo.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/nice-psg",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-newcastle---arsenal",
-              "name": "Newcastle - Arsenal",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/3840px-Newcastle_United_Logo.svg_-scaled.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://healthfirstin.com/albaplayer/the-most-common-gym-mistakes-ruining-your-progress/?serv=5",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-parma---roma",
-              "name": "Parma - Roma",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/1280px-Logo_Parma_Calcio_1913_ad.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/parma-roma",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
               "id": "sport-napoli---torino",
               "name": "Napoli - Torino",
               "icon": "https://kosovari.online/wp-content/uploads/2026/02/1280px-SSC_Napoli_2025_white_and.png",
@@ -990,7 +927,7 @@
               "name": "Real Madrid - Celta Vigo",
               "icon": "https://kosovari.online/wp-content/uploads/2026/02/hhfhfdhfdre.png",
               "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/real-madrid-celta-vigo",
+              "pageUrl": "https://healthfirstin.com/albaplayer/exactly-what-to-eat-before-and-after-your-workout/?serv=5",
               "referer": "https://kosovari.online/",
               "forceWeb": true
             }
