@@ -912,35 +912,7 @@
           "subtitle": "AlbaPlayer / Server 1..7",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/sport.jpg",
           "type": "group",
-          "items": [
-            {
-              "id": "sport-liverpool---manchester-united",
-              "name": "Liverpool - Manchester United",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/250px-Liverpool_FC.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/liverpool-man-united",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-milan---frosinone",
-              "name": "Milan - Frosinone",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/eryreyeryy.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/milan-frosinone",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-atalanta---inter",
-              "name": "Atalanta - Inter",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/reyrere.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/atalanta-inter",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "sport-damitv",
