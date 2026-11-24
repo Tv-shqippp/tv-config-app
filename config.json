@@ -912,35 +912,7 @@
           "subtitle": "AlbaPlayer / Server 1..7",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/sport.jpg",
           "type": "group",
-          "items": [
-            {
-              "id": "sport-arsenal---borussia-dortmund",
-              "name": "Arsenal - Borussia Dortmund",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/egewtwtew.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://healthfirstin.com/albaplayer/a-beginners-guide-to-balancing-carbs-protein-and-fats/?serv=5",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-manchester-city---napoli",
-              "name": "Manchester City - Napoli",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/1280px-Manchester_City_FC_badge.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://healthfirstin.com/albaplayer/the-most-common-gym-mistakes-ruining-your-progress/?serv=5",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-real-madrid---psv",
-              "name": "Real Madrid - PSV",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/hhfhfdhfdre.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://healthfirstin.com/albaplayer/exactly-what-to-eat-before-and-after-your-workout/?serv=5",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "sport-damitv",
