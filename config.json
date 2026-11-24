@@ -912,7 +912,44 @@
           "subtitle": "AlbaPlayer / Server 1..7",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/sport.jpg",
           "type": "group",
-          "items": []
+          "items": [
+            {
+              "id": "sport-galatasaray---aston-villa",
+              "name": "Galatasaray - Aston Villa",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/02/reyeyryer.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/galatasaray-aston-villa",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
+              "id": "sport-arsenal---borussia-dortmund",
+              "name": "Arsenal - Borussia Dortmund",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/02/egewtwtew.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/arsenal-dortmund",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
+              "id": "sport-manchester-city---napoli",
+              "name": "Manchester City - Napoli",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/02/1280px-Manchester_City_FC_badge.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/man-city-napoli",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
+              "id": "sport-real-madrid---psv",
+              "name": "Real Madrid - PSV",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/02/hhfhfdhfdre.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/real-madrid-psv",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            }
+          ]
         },
         {
           "id": "sport-damitv",
