@@ -914,20 +914,11 @@
           "type": "group",
           "items": [
             {
-              "id": "sport-galatasaray---aston-villa",
-              "name": "Galatasaray - Aston Villa",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/reyeyryer.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/galatasaray-aston-villa",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
               "id": "sport-arsenal---borussia-dortmund",
               "name": "Arsenal - Borussia Dortmund",
               "icon": "https://kosovari.online/wp-content/uploads/2026/02/egewtwtew.png",
               "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/arsenal-dortmund",
+              "pageUrl": "https://healthfirstin.com/albaplayer/a-beginners-guide-to-balancing-carbs-protein-and-fats/?serv=5",
               "referer": "https://kosovari.online/",
               "forceWeb": true
             },
@@ -936,7 +927,7 @@
               "name": "Manchester City - Napoli",
               "icon": "https://kosovari.online/wp-content/uploads/2026/02/1280px-Manchester_City_FC_badge.png",
               "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/man-city-napoli",
+              "pageUrl": "https://healthfirstin.com/albaplayer/the-most-common-gym-mistakes-ruining-your-progress/?serv=5",
               "referer": "https://kosovari.online/",
               "forceWeb": true
             },
