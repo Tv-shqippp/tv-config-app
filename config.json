@@ -912,53 +912,7 @@
           "subtitle": "AlbaPlayer / Server 1..7",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/sport.jpg",
           "type": "group",
-          "items": [
-            {
-              "id": "sport-club-brugge---liverpool",
-              "name": "Club Brugge - Liverpool",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/960px-Club_Brugge_KV_logo.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/club-brugge-liverpool",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-inter---stuttgart",
-              "name": "Inter - Stuttgart",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/reyeryery.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/inter-stuttgart",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-lille---bayern-munich",
-              "name": "Lille - Bayern Munich",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/03/Lille_OSC_2018_logo.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/lille-bayern-munich",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-psg---roma",
-              "name": "PSG - Roma",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/1280px-Paris_Saint-Germain_F.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://healthfirstin.com/albaplayer/how-to-optimize-your-workouts-for-your-specific-goals/?serv=5",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-sporting---manchester-united",
-              "name": "Sporting - Manchester United",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/03/960px-Sporting_CP_crest.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://healthfirstin.com/albaplayer/why-active-recovery-builds-muscle-faster-than-daily-training/?serv=5",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "sport-damitv",
