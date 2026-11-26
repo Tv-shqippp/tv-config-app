@@ -912,35 +912,7 @@
           "subtitle": "AlbaPlayer / Server 1..7",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/sport.jpg",
           "type": "group",
-          "items": [
-            {
-              "id": "sport-olympiacos---milan",
-              "name": "Olympiacos - Milan",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/ertyereryt.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/olympiacos-milan",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-egnatia---lincoln",
-              "name": "Egnatia - Lincoln",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/07/Egnatia_Club_Logo.svg_.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/egnatia-lincoln",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            },
-            {
-              "id": "sport-juventus---omonia",
-              "name": "Juventus - Omonia",
-              "icon": "https://kosovari.online/wp-content/uploads/2026/02/dfjdjfdjfj.png",
-              "type": "dynamic_hls",
-              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/juventus-omonia",
-              "referer": "https://kosovari.online/",
-              "forceWeb": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "sport-damitv",
