@@ -1868,21 +1868,21 @@
           "name": "Rrugët e Lirisë",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/rrugeteliris.jpg",
           "type": "hls",
-          "lastTry": "2026-11-20T20:33:57+00:00",
+          "lastTry": "2026-11-27T20:40:19+00:00",
           "url": "",
           "videoId": "9_9FQH2CeAA",
           "videoTitle": "Rrugët e Lirisë-Episodi 100(Tregime të Vjetra)",
           "state": "vod",
           "linkUpdated": "2026-11-06T20:50:05+00:00",
           "week": "2026-11-06T20:00:00+01:00",
-          "recheck": "2026-11-20T20:00:00+01:00"
+          "recheck": "2026-11-27T20:00:00+01:00"
         },
         {
           "id": "bashkallajk",
           "name": "Bashkallajk",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/bashkallajk.jpg",
           "type": "hls",
-          "lastTry": "2026-11-27T20:16:46+00:00",
+          "lastTry": "2026-11-27T20:40:19+00:00",
           "url": "",
           "videoId": "3QfxTWNJ-LQ",
           "videoTitle": "\"Tevidja Balerinë\" - Episodi 181 - Bashkallajk",
@@ -6155,7 +6155,7 @@
           "videoTitle": "Seriali \"Kojshillak\" - Episodi 9",
           "state": "vod",
           "icon": "https://i.ytimg.com/vi/wNpJbPl36A8/hqdefault.jpg",
-          "lastDiscovery": "2026-11-27T20:16:46+00:00"
+          "lastDiscovery": "2026-11-27T20:40:19+00:00"
         },
         {
           "id": "ne-kerkim-te-shpreses",
@@ -6167,7 +6167,7 @@
           "videoTitle": "Në kërkim të Shpresës - Episodi 34 | Serial Shqip",
           "state": "vod",
           "icon": "https://i.ytimg.com/vi/A-s-5Nfe_xo/hqdefault.jpg",
-          "lastDiscovery": "2026-11-27T20:16:46+00:00"
+          "lastDiscovery": "2026-11-27T20:40:19+00:00"
         },
         {
           "id": "gruaja",
@@ -6179,7 +6179,7 @@
           "videoTitle": "SERIALI GRUAJA – EPISODI 6 | Serial Shqip",
           "state": "vod",
           "icon": "https://i.ytimg.com/vi/0VfXtzT9D18/hqdefault.jpg",
-          "lastDiscovery": "2026-11-27T20:16:46+00:00"
+          "lastDiscovery": "2026-11-27T20:40:19+00:00"
         },
         {
           "id": "shpija-e-nuses",
@@ -6191,7 +6191,7 @@
           "videoTitle": "SHPIJA E NUSES - Episodi 35 (Tregime Popullore)",
           "state": "vod",
           "icon": "https://i.ytimg.com/vi/qb4v5xggY7Y/hqdefault.jpg",
-          "lastDiscovery": "2026-11-27T20:16:46+00:00"
+          "lastDiscovery": "2026-11-27T20:40:19+00:00"
         },
         {
           "id": "o-sa-mire",
