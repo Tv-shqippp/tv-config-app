@@ -912,7 +912,17 @@
           "subtitle": "AlbaPlayer / Server 1..7",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/sport.jpg",
           "type": "group",
-          "items": []
+          "items": [
+            {
+              "id": "sport-nottingham-forest---chelsea",
+              "name": "Nottingham Forest - Chelsea",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/02/960px-Nottingham_Forest_F._logo.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/nottingham-chelsea",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            }
+          ]
         },
         {
           "id": "sport-damitv",
