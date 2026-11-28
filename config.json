@@ -932,6 +932,15 @@
               "forceWeb": true
             },
             {
+              "id": "sport-torino---lazio",
+              "name": "Torino - Lazio",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/03/Torino_FC_Logo.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/torino-lazio",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
               "id": "sport-psg---lorient",
               "name": "PSG - Lorient",
               "icon": "https://kosovari.online/wp-content/uploads/2026/02/1280px-Paris_Saint-Germain_F.svg_.png",
