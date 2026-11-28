@@ -1,7 +1,7 @@
 {
-  "version": 2026111544,
+  "version": 2026111545,
   "communityCatalogAfter": "filma-shqip",
-  "updated": "2026-11-25T07:45:37Z",
+  "updated": "2026-11-28T19:20:54Z",
   "globalAlert": "",
   "sections": [
     {
@@ -133,7 +133,7 @@
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/dukagjini.jpg",
           "type": "hls",
           "nowPlaying": "",
-          "url": "https://kosovatv.live/api/hls.php?id=13&source=1",
+          "url": "https://kosovatv.live/api/hls.php?id=14&source=1",
           "referer": "https://kosovatv.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36"
         },
@@ -17443,7 +17443,7 @@
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/bbvk1.png",
           "type": "hls",
           "referer": "https://kosovatv.live/",
-          "url": "https://kosovatv.live/api/hls_special_v33074.php?id=497&source=1",
+          "url": "https://kosovatv.live/api/hls.php?id=497&source=1",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36"
         },
         {
@@ -17452,7 +17452,7 @@
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/bbvk1hd.png",
           "type": "hls",
           "referer": "https://kosovatv.live/",
-          "url": "https://kosovatv.live/api/hls_special_v33074.php?id=497&source=1",
+          "url": "https://kosovatv.live/api/hls.php?id=497&source=1",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36"
         },
         {
