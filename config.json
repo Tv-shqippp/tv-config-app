@@ -912,7 +912,62 @@
           "subtitle": "AlbaPlayer / Server 1..7",
           "icon": "https://raw.githubusercontent.com/Tv-shqippp/tv-config-app/main/icon/sport.jpg",
           "type": "group",
-          "items": []
+          "items": [
+            {
+              "id": "sport-hamburger-sv---bayern-munich",
+              "name": "Hamburger SV - Bayern Munich",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/02/Hamburger_SV_logo.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/hamburger-bayern-munich",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
+              "id": "sport-manchester-united---brentford",
+              "name": "Manchester United - Brentford",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/02/Manchester_United_FC_crest.svg_.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/man-united-brentford",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
+              "id": "sport-psg---lorient",
+              "name": "PSG - Lorient",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/02/1280px-Paris_Saint-Germain_F.svg_.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/psg-lorient",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
+              "id": "sport-inter---genoa",
+              "name": "Inter - Genoa",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/02/reyeryery.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/inter-genoa",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
+              "id": "sport-real-madrid---alaves",
+              "name": "Real Madrid - Alaves",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/02/hhfhfdhfdre.png",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/real-madrid-alaves",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            },
+            {
+              "id": "sport-nelson-hysa---agit-kabayel",
+              "name": "Nelson Hysa - Agit Kabayel",
+              "icon": "https://kosovari.online/wp-content/uploads/2026/11/Nelson-Hysa_1.webp",
+              "type": "dynamic_hls",
+              "pageUrl": "https://sites.google.com/view/dailyroutineexercise/nelson-hysa-agit-kabayel",
+              "referer": "https://kosovari.online/",
+              "forceWeb": true
+            }
+          ]
         },
         {
           "id": "sport-damitv",
